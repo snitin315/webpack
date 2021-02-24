@@ -11558,6 +11558,7 @@ declare namespace exports {
 		EntryObject,
 		ExternalItemFunctionData,
 		ExternalItemObjectKnown,
+		ExternalItemObjectUnknown,
 		ExternalItemValue,
 		Externals,
 		LibraryOptions,
